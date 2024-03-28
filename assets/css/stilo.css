@@ -1,0 +1,16 @@
+body{
+    margin: auto;
+}
+
+input{
+    margin: auto;
+}
+
+a{
+    margin-top: 5px;
+    padding: 5px;    
+    background: hotpink;
+    text-decoration: none;    
+    border-radius: 5px;
+}
+
